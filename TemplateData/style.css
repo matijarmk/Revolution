@@ -11,8 +11,8 @@ p,a,div {
 	
 }
 html,body,div,canvas { margin: 0; padding: 0; }
-::-moz-selection { color: #333; text-shadow: none; }
-::selection {  color: #333; text-shadow: none; }
+::-moz-selection { color:white; text-shadow: none; }
+::selection {  color: white; text-shadow: none; }
 .clear:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
 .clear { display: inline-table; clear: both; }
 /* Hides from IE-mac \*/ * html .clear { height: 1%; } .clear { display: block; } /* End hide from IE-mac */

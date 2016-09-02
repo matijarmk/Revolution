@@ -3,7 +3,7 @@
   ==== RESETS
 ****************************************/
 body {
-	background-image:url(background.png);
+	background:url(background.png);
   background:no-repeat;
 	
 }

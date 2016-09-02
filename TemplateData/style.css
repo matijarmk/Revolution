@@ -7,6 +7,10 @@ body {
   background:no-repeat;
 	
 }
+p,a,div {
+	color:white;
+	
+}
 html,body,div,canvas { margin: 0; padding: 0; }
 ::-moz-selection { color: #333; text-shadow: none; }
 ::selection {  color: #333; text-shadow: none; }

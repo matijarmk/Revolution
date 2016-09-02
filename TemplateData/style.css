@@ -2,7 +2,11 @@
 /****************************************
   ==== RESETS
 ****************************************/
-
+body {
+	background-image:url("background.png");
+  background:no-repeat;
+	
+}
 html,body,div,canvas { margin: 0; padding: 0; }
 ::-moz-selection { color: #333; text-shadow: none; }
 ::selection {  color: #333; text-shadow: none; }
